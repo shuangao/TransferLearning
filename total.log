@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.10.17)  14 MAR 2015 15:03
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.10.17)  14 MAR 2015 17:02
 entering extended mode
 **D:/LaTex_Files/Transfer/total.tex
 (D:/LaTex_Files/Transfer/total.tex
@@ -132,22 +132,21 @@ Before submitting the final camera ready copy, remember to:
 [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
-
 ]
 (D:\LaTex_Files\Transfer\total.aux) ) 
 Here is how much of TeX's memory you used:
- 914 strings out of 493921
- 16059 string characters out of 3152883
- 64942 words of memory out of 3000000
- 4271 multiletter control sequences out of 15000+200000
+ 920 strings out of 493921
+ 16176 string characters out of 3152883
+ 68942 words of memory out of 3000000
+ 4277 multiletter control sequences out of 15000+200000
  34143 words of font info for 63 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
- 26i,6n,19p,210b,194s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 26i,6n,19p,1340b,194s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/MiKTeX 2.9/fonts/enc/dvips/fontname/8r
 .enc}<D:/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><D:/MiKTeX 2.9/fonts/type1
 /urw/times/utmbi8a.pfb><D:/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><D:/MiKT
 eX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on total.pdf (1 page, 47550 bytes).
+Output written on total.pdf (1 page, 53828 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

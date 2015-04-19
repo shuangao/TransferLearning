@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.10.17)  16 MAR 2015 14:54
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.10.17)  18 MAR 2015 13:53
 entering extended mode
-**D:/LaTex_Files/Transfer/intro.tex
-(D:/LaTex_Files/Transfer/intro.tex
+**D:/LaTex_Files/Transfer/expsetup.tex
+(D:/LaTex_Files/Transfer/expsetup.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -21,14 +21,14 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 ï
-     »¿Over the recent few years, Convolutional Neural Network (CNN) shows i...
+     »¿In this section, we will discuss some details about the datasets and ...
 
 ? 
 ! Emergency stop.
  ...                                              
                                                   
 l.1 ï
-     »¿Over the recent few years, Convolutional Neural Network (CNN) shows i...
+     »¿In this section, we will discuss some details about the datasets and ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -36,10 +36,10 @@ If that doesn't work, type  X <return>  to quit.
  
 Here is how much of TeX's memory you used:
  8 strings out of 493921
- 282 string characters out of 3152883
+ 297 string characters out of 3152883
  49031 words of memory out of 3000000
  3400 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 5i,0n,4p,615b,14s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 5i,0n,4p,144b,14s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!

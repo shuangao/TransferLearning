@@ -346,6 +346,11 @@
 
 % correct bad hyphenation here
 \hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{subfigure}
+
+
 
 
 \begin{document}
@@ -358,22 +363,18 @@
 % author names and affiliations
 % use a multiple column layout for up to three different
 % affiliations
-\author{\IEEEauthorblockN{Michael Shell}
-\IEEEauthorblockA{School of Electrical and\\Computer Engineering\\
-Georgia Institute of Technology\\
-Atlanta, Georgia 30332--0250\\
-Email: http://www.michaelshell.org/contact.html}
+\author{\IEEEauthorblockN{Shuang Ao}
+\IEEEauthorblockA{Department of Computer Science\\
+Western University\\
+London, Ontario \\
+Email: sao@uwo.ca}
 \and
-\IEEEauthorblockN{Homer Simpson}
-\IEEEauthorblockA{Twentieth Century Fox\\
-Springfield, USA\\
-Email: homer@thesimpsons.com}
-\and
-\IEEEauthorblockN{James Kirk\\ and Montgomery Scott}
-\IEEEauthorblockA{Starfleet Academy\\
-San Francisco, California 96678-2391\\
-Telephone: (800) 555--1212\\
-Fax: (888) 555--1212}}
+\IEEEauthorblockN{Charles Ling}
+\IEEEauthorblockA{Department of Computer Science\\
+Western University\\
+London, Ontario \\
+Email: cling@csd.uwo.ca}}
+
 
 % conference papers do not typically use \thanks and this command
 % is locked out in conference mode. If really needed, such as for
@@ -442,14 +443,11 @@ The abstract goes here.
 % no \IEEEPARstart
 \input{intro.tex}
 
-\subsection{Subsection Heading Here}
-Subsection text here.
+\section{Experimental Setup}
+\input{expsetup.tex}
 
-
-\subsubsection{Subsubsection Heading Here}
-Subsubsection text here.
-
-
+\section{Experimental Discuss}
+\input{discuss.tex}
 % An example of a floating figure using the graphicx package.
 % Note that \label must occur AFTER (or within) \caption.
 % For figures, \caption should occur after the \includegraphics.
@@ -576,7 +574,7 @@ The authors would like to thank...
 % set second argument of \begin to the number of references
 % (used to reserve space for the reference number labels box)
 \bibliographystyle{IEEEtran}
-\bibliography{IEEEabrv,research}  
+\bibliography{IEEEabrv,research}
 
 
 

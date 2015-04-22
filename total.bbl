@@ -101,6 +101,11 @@ X.~Glorot and Y.~Bengio, ``Understanding the difficulty of training deep
   feedforward neural networks,'' in \emph{International conference on
   artificial intelligence and statistics}, 2010, pp. 249--256.
 
+\bibitem{singh2012unsupervised}
+S.~Singh, A.~Gupta, and A.~A. Efros, ``Unsupervised discovery of mid-level
+  discriminative patches,'' in \emph{Computer Vision--ECCV 2012}.\hskip 1em
+  plus 0.5em minus 0.4em\relax Springer, 2012, pp. 73--86.
+
 \bibitem{NIPS2014_Zhou}
 \BIBentryALTinterwordspacing
 B.~Zhou, A.~Lapedriza, J.~Xiao, A.~Torralba, and A.~Oliva, ``Learning deep
